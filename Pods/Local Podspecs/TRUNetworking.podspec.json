@@ -1,0 +1,23 @@
+{
+  "name": "TRUNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of TRUNetworking.",
+  "description": "TODO: Add long description of the pod here.\nyes,this is the description of lbys first podspec.\nso nice to see you here.",
+  "homepage": "https://github.com/LucyBenYing/libs.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lby": "lbylubenying@163.com"
+  },
+  "source": {
+    "git": "https://github.com/LucyBenYing/libs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.0",
+  "source_files": "TRUNetworking/Classes/**/*"
+}

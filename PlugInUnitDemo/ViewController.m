@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+@import TRUNetworking;
+//#import <TRUNetworking/People.h>
 
 @interface ViewController ()
 
@@ -16,6 +18,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+//    MyTest.init(@"hi").test(@"nicey");
+    [[People new] test];
     // Do any additional setup after loading the view.
 }
 
